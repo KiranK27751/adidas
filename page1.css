@@ -216,11 +216,30 @@ p
     position: absolute;
     float: right;
     margin-left: 83%;
-    margin-top:42.5%;
+    margin-top:43%;
     
 }
+.logo-txt
+{
+    position: absolute;
+    margin-left: 47%;
+    margin-top: 283px;
+    color: white;
+    font-size: 40px;
+}
 
-
-
-
-
+.slideshow
+{
+    position: absolute;
+    width: 100%;
+    height: 30%;
+    margin-top: 150px;
+    
+}
+.mySlides
+{
+    position: absolute;
+    width: 30%;
+    margin-left: 33%;
+    
+}
